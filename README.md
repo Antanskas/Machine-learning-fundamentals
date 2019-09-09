@@ -4,6 +4,9 @@
     * Make a notebook with machine learning fundamentals, practice different machine learning subjects
 * #### Environment: 
     * Google colaboratory 
+* #### Datasets:
+    * column_2C_weka.csv
+    * column_3C_weka.csv
 * #### Categories:
     * Supervised learning
       * EXPLORATORY DATA ANALYSIS (EDA)
