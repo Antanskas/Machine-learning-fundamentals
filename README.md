@@ -1,13 +1,13 @@
 # Machine-learning-fundamentals
 
-* #### Idea: 
+* #### Idea: ![](https://github.com/Antanskas/Machine-learning-fundamentals/blob/master/repository_images/idea.png)
     * Make a notebook with machine learning fundamentals, practice different machine learning subjects
-* #### Environment: 
+* #### Environment: ![](https://github.com/Antanskas/Machine-learning-fundamentals/blob/master/repository_images/colab.png)
     * Google colaboratory 
-* #### Datasets:
+* #### Datasets: ![](https://github.com/Antanskas/Machine-learning-fundamentals/blob/master/repository_images/books.png)
     * column_2C_weka.csv
     * column_3C_weka.csv
-* #### Categories:
+* #### Categories: ![](https://github.com/Antanskas/Machine-learning-fundamentals/blob/master/repository_images/categories.png)
     * Supervised learning
       * EXPLORATORY DATA ANALYSIS (EDA)
       * K nearest neighbours
