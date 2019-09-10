@@ -4,6 +4,7 @@
     * Make a notebook with machine learning fundamentals, practice different machine learning subjects
 * #### Environment: ![](https://github.com/Antanskas/Machine-learning-fundamentals/blob/master/repository_images/colab.png)
     * Google colaboratory 
+    * Python3
 * #### Datasets: ![](https://github.com/Antanskas/Machine-learning-fundamentals/blob/master/repository_images/books.png)
     * column_2C_weka.csv
     * column_3C_weka.csv
